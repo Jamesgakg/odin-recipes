@@ -7,8 +7,24 @@
     color: white;
     font-size: 48px;
 }
+#sub-heading {
+    color: red;
+    font-size: 28px;
+}
 img {
     height: auto;
     width: 825px;
     float: right;
+}
+.list .content {
+    font-weight: 600;
+    font-size: 20px;
+}
+.list .text {
+    font-size: 22px;
+    font-weight: 450;
+}
+p {
+    background-color: black;
+    color: white;
 }
