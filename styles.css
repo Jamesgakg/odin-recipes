@@ -3,5 +3,11 @@
 }
 #heading {
     text-align: center;
-    font-size: 42px;
+    color: red;
+    font-size: 64px;
+}
+#index-list {
+    text-align: center;
+    color: black;
+    font-size: 32px;
 }
