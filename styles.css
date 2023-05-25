@@ -3,11 +3,17 @@ body {
 }
 #heading {
     text-align: center;
-    color: red;
-    font-size: 64px;
+    color: black;
+    font-size: 120px;
+    padding: 30px 45px;
+    margin: 50px 75px;
+    background-color: bisque;
 }
 #link {
     text-align: center;
+    margin: 50px 525px;
+    padding: 38px 75px;
     color: black;
-    font-size: 32px;
+    font-size: 64px;
+    background-color: bisque;
 }
