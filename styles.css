@@ -1,4 +1,4 @@
-#all {
+body {
     font-family: Arial, Helvetica, sans-serif;
 }
 #heading {
@@ -6,7 +6,7 @@
     color: red;
     font-size: 64px;
 }
-#index-list {
+#link {
     text-align: center;
     color: black;
     font-size: 32px;
